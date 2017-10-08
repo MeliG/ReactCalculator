@@ -3,3 +3,33 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.Numpad {
+
+}
+
+button:hover {
+  background-color: grey;
+}
+
+button:active {
+  background-color:orange;
+}
+
+.App {
+  margin:auto;
+  width: 500px;
+
+}
+.display {
+  border: 1px solid grey;
+  height: 50px;
+  font-size: 2rem;
+}
+
+button {
+  font-size: 2rem;
+  width: 50px;
+  padding: 10px;
+  margin:1px;
+}
